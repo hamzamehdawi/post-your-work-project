@@ -1,8 +1,7 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
+# bikeshare.py
+# Author: hamza mehdawi
+# Description: Analyzes US bikeshare data for Chicago, NYC, and Washington.
+# The user can filter by city, month, and day of the week.
 
 import time
 import pandas as pd
