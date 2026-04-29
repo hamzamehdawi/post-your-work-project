@@ -30,3 +30,7 @@ hamza mehdawi
 ## Acknowledgements
 Project template provided by Udacity as part of the
 Programming for Data Science Nanodegree.
+
+## Known Issues
+- Washington DC data does not include Gender or Birth Year columns.
+- Data is limited to the first half of 2017.
