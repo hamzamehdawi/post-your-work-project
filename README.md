@@ -1,27 +1,32 @@
->**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
+# Bikeshare Data Analysis
 
+## Project Overview
+This project uses Python to explore data related to bike share systems
+in three major US cities: Chicago, New York City, and Washington DC.
+It answers interesting questions about usage patterns by computing
+descriptive statistics from the data.
 
-# Project Title
+## How to Run
+1. Make sure Python 3 and pandas are installed.
+2. Run the script: `python bikeshare.py`
+3. Follow the prompts to select a city, month, and day filter.
 
-Describe what your project is about and what it does
+## Files Included
+- `bikeshare.py` — Main Python script for data analysis
+- `.gitignore` — Specifies files excluded from version control
 
-## Information about how to use your project
+## Software Requirements
+- Python 3.6+
+- pandas
+- numpy
 
-This could include:
+## Data
+The data files (not included in this repo) contain bike share
+trip records from January to June 2017 for each city.
 
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+## Author
+hamza mehdawi
 
-## Contribution guidelines
-
-If you welcome contributions, provide guidelines on how others can contribute to your project.
-
-## Credits
-
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-## Date created
-
-Include the date you created this project and README file.
+## Acknowledgements
+Project template provided by Udacity as part of the
+Programming for Data Science Nanodegree.
