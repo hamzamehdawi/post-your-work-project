@@ -5,6 +5,8 @@
 
 import time
 import pandas as pd
+ALL_FILTER = 'all'
+
 
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
@@ -13,6 +15,9 @@ CITY_DATA = {'chicago': 'chicago.csv',
 
 def get_filters():
     """
+    Step 1: Get city input ----
+    Step 2: Get month input ----
+    Step 3: Get day input ----
          Asks user to specify a city, month, and day to analyze.
 
          Returns:
